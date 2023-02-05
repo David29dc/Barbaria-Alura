@@ -7,7 +7,10 @@ PT
 
  O projeto era desenvolver um site de barbearia onde os clientes pudessem marcar os horários parar cortar cabelo ou fazer barba, conhecer um pouco a história da barbearia, como também, ver algumas fotos e vídeo sobre. 
 
- ## Tecnologias
-**HTML** <br>
-**CSS** <br>
-**Git e Github**
+**[Click here to acess the website](https://david29dc.github.io/Barbaria-Alura/)**
+
+> ## Tecnologias
+> 
+> - **HTML** <br>
+> - **CSS** <br>
+> - **Git e Github**
